@@ -1,8 +1,8 @@
 # pull-recvfrom
 
-a `[pull-stream](https://github.com/pull-stream/pull-stream)` for `[recvfrom](https://github.com/reqshark/recvfrom)`
+a [`pull-stream`](https://github.com/pull-stream/pull-stream) for [`recvfrom`](https://github.com/reqshark/recvfrom)
 
-this module provides a source stream interface to recvfrom.
+this module provides a source stream interface to recvfrom
 
 ```bash
 npm i pull-recvfrom
@@ -16,7 +16,7 @@ parameter signature, `pullfrom(str, n, fn)`:
 
 * `number`, buffer recv size
 
-* `recvfrom`, a reference to `[recvfrom](https://github.com/reqshark/recvfrom)`
+* `recvfrom`, a reference to [`recvfrom`](https://github.com/reqshark/recvfrom)
 
 for example:
 
