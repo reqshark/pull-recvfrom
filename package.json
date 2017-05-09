@@ -1,6 +1,6 @@
 {
   "name":             "pull-recvfrom",
-  "version":          "0.0.1",
+  "version":          "0.0.2",
   "description":      "source stream interface to recvfrom",
   "devDependencies":  {
     "pull-stream":      "3.5",
